@@ -3,7 +3,7 @@
 image:
   #repo: robotshop
   repo: yoloshikudkr
-  version: latest
+  version: 2.1.0
   pullPolicy: IfNotPresent
 
 # EUM configuration
