@@ -4,7 +4,8 @@ image:
   #repo: robotshop
   repo: yoloshikudkr
   version: 2.1.0
-  pullPolicy: IfNotPresent
+  #pullPolicy: IfNotPresent
+  pullPolicy: Always
 
 # EUM configuration
 # Provide your key and set the endpoint
