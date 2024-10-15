@@ -3,7 +3,8 @@
 image:
   #repo: robotshop
   repo: yoloshikudkr
-  version: 2.1.0
+  #version: 2.1.0
+  version: latest
   #pullPolicy: IfNotPresent
   pullPolicy: Always
 
